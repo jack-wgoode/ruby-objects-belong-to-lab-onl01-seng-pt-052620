@@ -7,11 +7,11 @@ class Artist
   end
   
   def name 
-    self.name 
+    @name 
   end 
   
   def name=(name)
-    self.name = name 
+    @name = name 
   end
   
 end
